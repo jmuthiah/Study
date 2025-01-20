@@ -9,6 +9,7 @@ Biology:
         - Ectoderm: outer layer,  develops into skin, hair, nails, the neural crest, neural tube >> nervous system.
 
 Chemistry:
+   
     Definitions:
         - Rate Law
             - expresses the relationship of the rate of a reaction to the rate constant and the consentrations of the reactants raised to some power.
