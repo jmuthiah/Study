@@ -85,7 +85,7 @@ Biochemial Processes:
         --------------------------------------------------------------------------------
         | Enzyme      | Tissue         | GA   | Active @                               |
         | hexo IV     | hepatic        | Down | High Glucose Concen.                   | 
-        | Hexokinase  | Extra hepatic  | Up   | Active @ Low Glucose Concen.           |
+        | Hexokinase  | Extra hepatic  | Up   | Low Glucose Concen.                    |
         --------------------------------------------------------------------------------
 
     Phosphofructokinase 1 (PFK-1) inhibition:
