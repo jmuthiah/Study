@@ -22,3 +22,43 @@ Chemistry:
 
         - Reaction Order
             - The order of a rate law is the sum of the exponents of its concentration terms.  
+
+Biochemial Processes:
+    Glycolysis Regulation:
+        Glycolysis Steps:
+            
+            Step 1: Glucose -> Glucose-6-Phosphate (G6P) 
+                via hexokinase: requires ATP -> ADP
+                        rate limiting step
+
+            Step 2: G6P <=> Fructose-6-Phosphate (F6P)
+                via G6P Isomerase
+
+            Step 3: F6P -> Fructose-1,6-Bisphosphate (F-1,6-P2)
+                via phosphofrictokinase 1 (PFK-1): requires ATP -> ADP
+                        rate limiting step
+            
+            Step 4: F-1,6-P2 => Dihydroxyacetone phosphate (DAP)
+                        A
+                        ||
+                        V
+                        Glyceraldehyde-3-Phosphate (GAP)
+                both reactions are facilitated via Aldolyse 
+                    GAP <=> DAP 
+                        via triose phosphate isomerase
+            
+            Step 5: GAP <=> 1,3 Bisphosphoglycerate (1,3-BPG)
+                via GAP dehydrogenase: requires NAD+ -> NADH + H+
+
+            Step 6: 1,3-BPG <=> 3-phosphyglycerate
+                via phosphoglycerate kinase: requires ADP -> ATP
+
+            Step 7: 3-phosphyglycerate <=> 2-Phosphoglycerate 
+                via phosphoglycerate mutase
+            
+            Step 8: 2-Phosphoglycerate <=> Phosphenol pyruvate
+                via enolase; forward direction releases H2O molecule
+
+            Step 9: Phosphenol Pyruvate -> Pyruvate 
+                via Pyruvate Kinase: requires ADP -> ATP
+                        rate limiting step
