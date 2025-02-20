@@ -98,6 +98,8 @@ Biochemial Processes:
         High H+ Concentration:
             pH decreases during downstream anaerobic metabolism of pyruvate. To prevent extreme/damaging conditions to the cell pyruvate production via glycolysis is inhibited at low pH. 
     PFK-1 Activation:
+        Activators:
+            AMP, F-2,6-P2
         AMP:
             AMP + ATP = 2 ADP
                 The presence of AMP in the cell signifies that energy is required, Further illustrated by the above formula; AMP binds to a specific allosteric activator site of PFK-1; causing conformational change from __inactive T state__ to __active R state__; this increases affinity for F6P.
@@ -108,3 +110,15 @@ Biochemial Processes:
                 increased glucagon -> cAMP upregulation -> F-2,6-P2 downregulation -> downregulation of PFK-1
             Heart:
                 increased adrenalin -> cAMP upregulation -> F-2,6-P2 upregulation -> upregulation of PFK-1
+    Pyruvate Kinase Inhibition:
+        Inhibitors: 
+            ATP, Alanine (from pyruvate)
+        ATP: 
+            Presence of ATP signifies that energy requirements are already met.
+        Alanine (from pyruvate):
+            signals that substrate requirements of other metabolic pathys are covered.
+    Pyruvate Kinase Activators:
+        Activators:
+            F-1,6-P2
+        F-1,6-P2: 
+            Feed-forward activatioin, allosteric
