@@ -82,7 +82,29 @@ Biochemial Processes:
 
         Glucose Affinity of hexokinase
 
-        -------------------------------------------------------------------------
-        | Enzy hexo IV| Tissue hepatic | GA Down | Active @ High Glucose Concen.|
-        | Hexokinase  | Extra hepatic  | GA Up   | Active @ Low Glucose Concen. |
-        -------------------------------------------------------------------------
+        --------------------------------------------------------------------------------
+        | Enzyme      | Tissue         | GA   | Active @                               |
+        | hexo IV     | hepatic        | Down | High Glucose Concen.                   | 
+        | Hexokinase  | Extra hepatic  | Up   | Active @ Low Glucose Concen.           |
+        --------------------------------------------------------------------------------
+
+    Phosphofructokinase 1 (PFK-1) inhibition:
+        Inhibitors:
+            ATP, Citrate, Protons
+        ATP:   
+            leads to inhibition because it cignals that cellular energy supply is sufficient; functions as inhibitor via allosteric binding causing __conformational change__ reducing enzyme's affinity to Fructose-6-Phosphate.
+        Citrate:
+            intermediate of the TCA (Krebs) cycle; accumulates if there is excess acetyl-CoA; works synergistically with ATP by binding to other active sites further stablizing PFK-1 in the low-affinity T State
+        High H+ Concentration:
+            pH decreases during downstream anaerobic metabolism of pyruvate. To prevent extreme/damaging conditions to the cell pyruvate production via glycolysis is inhibited at low pH. 
+    PFK-1 Activation:
+        AMP:
+            AMP + ATP = 2 ADP
+                The presence of AMP in the cell signifies that energy is required, Further illustrated by the above formula; AMP binds to a specific allosteric activator site of PFK-1; causing conformational change from __inactive T state__ to __active R state__; this increases affinity for F6P.
+        Special Cases
+            F-2,6-P2
+                can function as activator or deactivator
+            Liver:
+                increased glucagon -> cAMP upregulation -> F-2,6-P2 downregulation -> downregulation of PFK-1
+            Heart:
+                increased adrenalin -> cAMP upregulation -> F-2,6-P2 upregulation -> upregulation of PFK-1
