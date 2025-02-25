@@ -122,6 +122,3 @@ Biochemial Processes:
             F-1,6-P2
         F-1,6-P2: 
             Feed-forward activatioin, allosteric
-
-
-            $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
